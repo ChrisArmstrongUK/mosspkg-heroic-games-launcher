@@ -7,10 +7,10 @@ Assuming a local repo has been setup (https://aerynos.dev/packaging/workflow/bas
 
 ```shell
 # Clone the git repo
-git clone https://github.com/ChrisArmstrongUK/HeroicGamesLauncher-MossPackageRecipe.git
+git clone https://github.com/ChrisArmstrongUK/mosspkg-heroic-games-launcher.git
 
 # Change into the repo directory
-cd HeroicGamesLauncher-MossPackageRecipe
+cd mosspkg-heroic-games-launcher
 
 # Build the package and move into the local moss repo index
 just build
