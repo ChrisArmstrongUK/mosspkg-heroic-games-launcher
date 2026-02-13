@@ -35,7 +35,6 @@
 				"soname(libpango-1.0.so.0(x86_64))",
 				"soname(libpthread.so.0(x86_64))",
 				"soname(libsmime3.so(x86_64))",
-				"soname(libstdc++.so.6(x86_64))",
 				"soname(libudev.so.1(x86_64))",
 				"soname(libxcb.so.1(x86_64))",
 				"soname(libxkbcommon.so.0(x86_64))",
@@ -128,14 +127,6 @@
 				"/usr/share/heroicgameslauncher/resources/app.asar.unpacked/build/icon.png",
 				"/usr/share/heroicgameslauncher/resources/app.asar.unpacked/build/mac-icon.icns",
 				"/usr/share/heroicgameslauncher/resources/app.asar.unpacked/build/win_icon.ico",
-				"/usr/share/heroicgameslauncher/resources/app.asar.unpacked/node_modules/register-scheme/build/Release/node-addon-api/src/nothing.a.ar-file-list",
-				"/usr/share/heroicgameslauncher/resources/app.asar.unpacked/node_modules/register-scheme/build/Release/register-protocol-handler.node",
-				"/usr/share/heroicgameslauncher/resources/app.asar.unpacked/node_modules/register-scheme/index.js",
-				"/usr/share/heroicgameslauncher/resources/app.asar.unpacked/node_modules/register-scheme/package.json",
-				"/usr/share/heroicgameslauncher/resources/app.asar.unpacked/node_modules/register-scheme/src/register.h",
-				"/usr/share/heroicgameslauncher/resources/app.asar.unpacked/node_modules/register-scheme/src/register_linux.cpp",
-				"/usr/share/heroicgameslauncher/resources/app.asar.unpacked/node_modules/register-scheme/src/register_mac.m",
-				"/usr/share/heroicgameslauncher/resources/app.asar.unpacked/node_modules/register-scheme/src/register_win.cpp",
 				"/usr/share/heroicgameslauncher/snapshot_blob.bin",
 				"/usr/share/heroicgameslauncher/v8_context_snapshot.bin",
 				"/usr/share/heroicgameslauncher/vk_swiftshader_icd.json"
@@ -152,6 +143,6 @@
 		}
 	},
 	"source-name": "heroic-games-launcher",
-	"source-release": "1",
-	"source-version": "v2.18.1"
+	"source-release": "2",
+	"source-version": "2.19.1"
 }
