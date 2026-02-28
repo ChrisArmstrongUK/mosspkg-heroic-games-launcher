@@ -1,9 +1,9 @@
 name        : heroic-games-launcher
-version     : 2.19.1
-release     : 2
+version     : 2.20.1
+release     : 3
 homepage    : https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
 upstreams   :
-    - https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.19.1/Heroic-2.19.1-linux-x64.tar.xz : 861549649ba4e0a43dd1194f2187360a3f0a452a46cdbecc90b6ba22a2e4797f
+    - https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-linux-x64.tar.xz : 0b83f58d831610ac6284eed7d4c16471a5c9a41d892b723a90f9d057d6c19851
 summary     : A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 description : |
     A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
